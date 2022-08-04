@@ -60,3 +60,24 @@ h3 {
     background-color: #9AABD8;
     color: #1B244A;
 }
+
+#reset-btn {
+    padding: 5px 5px;
+    background-color: #1B244A;
+    border: 1px #9AABD8 solid;
+    margin: 0 5px;
+    color: #9AABD8;
+    font-family: 'Cursed_Timer';
+    padding: 5px 5px;
+}
+#reset-btn:hover {
+    background-color: #9AABD8;
+    color: #1B244A;
+}
+
+
+#reset-container {
+    display: flex;
+    align-items: flex-end;
+    margin: 0 0 14px 0;
+}
