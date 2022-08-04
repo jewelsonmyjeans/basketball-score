@@ -20,3 +20,8 @@ function incrementVisitorTwo() {
 function incrementVisitorThree() {
     visitorScore.textContent = parseInt(visitorScore.textContent) + 3
 }
+
+function reset() {
+    homeScore.textContent = 0
+    visitorScore.textContent = 0
+}
