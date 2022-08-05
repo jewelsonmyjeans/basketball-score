@@ -1,5 +1,5 @@
 # basketball-score
 
 
-Website to see how this website looks:
+Website to see the scoreboard:
 https://jewelsonmyjeans.github.io/basketball-score/
